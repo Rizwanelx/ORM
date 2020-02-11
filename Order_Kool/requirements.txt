@@ -1,6 +1,6 @@
 asgiref==3.2.3
 chardet==3.0.4
-Django==3.0.1
+Django==3.0.3
 django-csvimport==2.13
 django-widget-tweaks==1.4.5
 pytz==2019.3
